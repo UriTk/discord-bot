@@ -1,0 +1,4 @@
+discord-ext-menus @ git+https://github.com/Rapptz/discord-ext-menus@84caae8038d0d3adc860957ccef05baeec2e2dd8
+discord.py==1.4.1
+openpyxl==3.0.5
+pytz==2020.1
