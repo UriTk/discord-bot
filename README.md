@@ -1,5 +1,5 @@
 # discord-bot
-Bots I made for discord. Probably all python, mostly all fiverr.
+Bots I made for discord. Probably all python, mostly all fiverr. Lacking some newer references (2021-Present), mostly due to it being propietary code.
 As a brief description of these:
 
 MZ. 
